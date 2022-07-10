@@ -1,0 +1,2 @@
+# Categorization-subcategorization-and-recommendation-of-research-papers
+The project involved assorting and forming categories and subcategories from the metadata of over 10,000 research papers. Moreover, the project also involved the creation of a citation graph in the form of an adjacency matrix and recommending subcategories based on the classification done in the earlier part to new research papers.
